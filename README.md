@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @computingdon
 - 👀 I’m interested in creating applications and scripting tools
-- 🌱 I’m currently learning [ython
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
